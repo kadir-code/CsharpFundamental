@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\bin\Debug\CsharpStringFunctions.exe.config
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\bin\Debug\CsharpStringFunctions.exe
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\bin\Debug\CsharpStringFunctions.pdb
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.Form1.resources
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.Properties.Resources.resources
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.exe
+C:\Users\akadi\Desktop\Yeni klasör\CsharpStringFunctions\CsharpStringFunctions\obj\Debug\CsharpStringFunctions.pdb
