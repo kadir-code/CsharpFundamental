@@ -1,0 +1,9 @@
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\bin\Debug\Otobus_Bilet_Uygulamasi.exe.config
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\bin\Debug\Otobus_Bilet_Uygulamasi.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\bin\Debug\Otobus_Bilet_Uygulamasi.pdb
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.Form1.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.Properties.Resources.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Otobus_Bilet_Uygulamasi\Otobus_Bilet_Uygulamasi\obj\Debug\Otobus_Bilet_Uygulamasi.pdb
