@@ -1,0 +1,22 @@
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\akadi\Desktop\projects\BilgeAdam\Fundamental\Bahis Oyunu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
