@@ -7,4 +7,25 @@ ThisrRepository contains winform implementations and string methods.
 > When the argument is null, `Int32.Parse()` throws `ArgumentNullException`.
 
 This is the main difference between them.
+### Methods and Functions
+In Csharp, methods and functions are structures that we write a job we want to do in one go. They are structures that we can do the same job without repeating the code wherever we call them later.
+
+Method use :
+
+```
+<visibility> <void> <name>(<parameters>)
+{
+    <method code>
+}
+```
+Function use :
+```
+<visibility> <return type> <name>(<parameters>)
+{
+    <function code>
+    return <value>
+}
+```
+
+> The main difference between method and function is that methods are only responsible for doing the given job; functions return a value at the end of the job.
 
